@@ -3,7 +3,7 @@ import './TodoCounter.css';
 
 // const estilos = {
 //     color: 'red',
-//     backgroundColor: 'yellow',
+//     backgroundColor: 'yellow', // iniciar cada palabra con mayuscula no con -
 // }
 
 function TodoCounter() {
