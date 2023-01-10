@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.abe22eee.css",
-    "main.js": "/my-app/static/js/main.fda7b5a5.js",
-    "index.html": "/my-app/index.html",
-    "static/media/delete.svg": "/my-app/static/media/delete.6e759ca3ed28e898178378a47f2bd2b9.svg",
-    "static/media/check.svg": "/my-app/static/media/check.7212d43806db4cb598b85d7a97a84cf3.svg",
-    "main.abe22eee.css.map": "/my-app/static/css/main.abe22eee.css.map",
-    "main.fda7b5a5.js.map": "/my-app/static/js/main.fda7b5a5.js.map"
+    "main.css": "/TodoList-React/my-app/static/css/main.abe22eee.css",
+    "main.js": "/TodoList-React/my-app/static/js/main.337b221c.js",
+    "index.html": "/TodoList-React/my-app/index.html",
+    "static/media/delete.svg": "/TodoList-React/my-app/static/media/delete.6e759ca3ed28e898178378a47f2bd2b9.svg",
+    "static/media/check.svg": "/TodoList-React/my-app/static/media/check.7212d43806db4cb598b85d7a97a84cf3.svg",
+    "main.abe22eee.css.map": "/TodoList-React/my-app/static/css/main.abe22eee.css.map",
+    "main.337b221c.js.map": "/TodoList-React/my-app/static/js/main.337b221c.js.map"
   },
   "entrypoints": [
     "static/css/main.abe22eee.css",
-    "static/js/main.fda7b5a5.js"
+    "static/js/main.337b221c.js"
   ]
 }
